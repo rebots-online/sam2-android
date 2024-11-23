@@ -40,7 +40,7 @@ Download the [APK](https://github.com/shubham0204/Segment-Anything-Android/relea
 1. Clone the project from GitHub and open the resulting directory in Android Studio.
 
 ```text
-git clone --depth=1 https://github.com/shubham0204/Segment-Anything-Android
+git clone --depth=1 [https://github.com/rebots-online/sam2-android](https://github.com/rebots-online/sam2-android)
 ```
 
 2. Android Studio starts building the project automatically. If not, select **Build > Rebuild Project** to start a project build.
